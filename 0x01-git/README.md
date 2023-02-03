@@ -1,1 +1,2 @@
 newdir
+do hard things
